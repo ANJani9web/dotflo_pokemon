@@ -249,7 +249,7 @@ const getAllPokemon = () => {
 - [x] App Feed
 
 
-## Roadmap
+## Platform's users' perspective
 * Fans of the Pokémon franchise, whether casual or dedicated players, would use Pokemania to deepen their knowledge about Pokémon. The comprehensive information, multimedia content, and up-to-date news would make it an attractive resource for Pokémon enthusiasts.
 
 * Pokemania serves as a centralized hub for detailed information on a wide range of Pokémon species. This can be valuable for fans looking to enhance their knowledge, trainers strategizing their teams, and researchers studying virtual ecosystems.
