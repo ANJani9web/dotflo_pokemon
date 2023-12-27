@@ -22,6 +22,7 @@
 
 <!-- PROJECT LOGO -->
 <br />
+
 <div align="center">
   <a href="">
     <img src="https://res.cloudinary.com/abhi9av/image/upload/v1703694626/eiziglbrzw8dhrjfqeqh.png" alt="Logo" width="400" height="">
@@ -37,7 +38,9 @@
   Gotta Browse 'Em All: Your Ultimate Pokémon Encyclopedia Online!"
     <br />
     <br />
-    <a href="https://team22-client.vercel.app/">VISIT WEBSITE</a>
+    <a href="https://res.cloudinary.com/abhi9av/video/upload/v1703701493/w4n1wkeegfvmk8k3x1my.mp4">DEMO VIDEO</a>
+    <br />
+    <a href="https://dotflo-pokemon.vercel.app/">VISIT WEBSITE</a>
     <br />
     <a href="https://github.com/ANJani9web/dotflo_pokemon">GITHUB REPOSITORY</a>
   </p>
@@ -111,7 +114,7 @@ Follow these steps to set up and run Pokemania on your local machine:
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-For usage and Project Demo, please checkout the [Demo Video]() provided.
+For usage and Project Demo, please checkout the [Demo Video](https://res.cloudinary.com/abhi9av/video/upload/v1703701493/w4n1wkeegfvmk8k3x1my.mp4) provided.
 
 ## Walkthrough of the Platform
 
@@ -252,7 +255,7 @@ Mail: [cse210001004@iiti.ac.in](cse210001004@iiti.ac.in)
 
 Project Link: [https://github.com/ANJani9web/dotflo_pokemon](https://github.com/ANJani9web/dotflo_pokemon)
 
-Website Link: [https://team22-client.vercel.app/](https://team22-client.vercel.app/)
+Website Link: [https://dotflo-pokemon.vercel.app/](https://dotflo-pokemon.vercel.app/)
 
 
 
