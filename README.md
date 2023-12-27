@@ -38,7 +38,7 @@
   Gotta Browse 'Em All: Your Ultimate Pokémon Encyclopedia Online!"
     <br />
     <br />
-    <a href="https://res.cloudinary.com/abhi9av/video/upload/v1703701493/w4n1wkeegfvmk8k3x1my.mp4">DEMO VIDEO</a>
+    <a href="https://res.cloudinary.com/defj06zfq/video/upload/v1703702825/g2ja7rclvzhzu1xp1szn.mp4">DEMO VIDEO</a>
     <br />
     <a href="https://dotflo-pokemon.vercel.app/">VISIT WEBSITE</a>
     <br />
@@ -65,7 +65,6 @@ Welcome to Pokemania, your go-to destination for all things Pokémon! This proje
 
 * [React](https://legacy.reactjs.org/)
 * [Tailwind](https://tailwindcss.com/)
-* [Docker](https://www.docker.com/)
 * [PokeAPI](https://pokeapi.co/)
 
 
@@ -114,7 +113,7 @@ Follow these steps to set up and run Pokemania on your local machine:
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-For usage and Project Demo, please checkout the [Demo Video](https://res.cloudinary.com/abhi9av/video/upload/v1703701493/w4n1wkeegfvmk8k3x1my.mp4) provided.
+For usage and Project Demo, please checkout the [Demo Video](https://res.cloudinary.com/defj06zfq/video/upload/v1703702825/g2ja7rclvzhzu1xp1szn.mp4) provided.
 
 ## Walkthrough of the Platform
 
