@@ -85,7 +85,7 @@ Follow these steps to set up and run Pokemania on your local machine:
     git clone https://github.com/ANJani9web/dotflo_pokemon
     ```
 
-* Change directory to team22
+* Change directory to dotflo_pokemon
     ```sh
     cd dotflo_pokemon
     ```
